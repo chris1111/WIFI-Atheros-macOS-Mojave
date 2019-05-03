@@ -1,0 +1,1 @@
+# WIFI Atheros macOS Mojave
