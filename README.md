@@ -1,4 +1,4 @@
-### WIFI Atheros macOS Mojave
+### WIFI Atheros macOS Mojave (for Hackintosh PC or Laptop)
 - The support for Atheros WIFI cards is completely non-existent in macOS Mojave, the first thing to do to run the WIFI is to install this program.
 
 
