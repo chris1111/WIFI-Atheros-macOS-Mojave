@@ -1,0 +1,15 @@
+#!/bin/bash
+# by chris1111
+# Fix AirPortAtheros40 Mojave
+
+touch "${3}/Library/Extensions/"
+
+
+
+
+
+
+
+
+
+
